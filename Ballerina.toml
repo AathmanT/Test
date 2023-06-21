@@ -1,12 +1,9 @@
-[build-options]
-  observabilityIncluded = true
-
 [package]
-  distribution = "2201.5.0"
-  export = ["greeting_service"]
-  icon = "docs/icon.png"
-  keywords = ["Kind/Sample","Type/Service","Category/Service","Internal/http"]
-  name = "greeting_service"
-  org = "aiteam"
-  version = "3.1.1"
+org = "aathman"
+name = "Greetings"
+version = "0.1.0"
+distribution = "2201.5.0"
+
+[build-options]
+observabilityIncluded = true
 
